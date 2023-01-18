@@ -7,6 +7,7 @@ public class Lesson1 {
         System.out.println(x);
         short y=-4542;
         System.out.println(y);
+        System.out.println(y);
         int a=454564;
         System.out.println(a);
         long b=4564674324684L;
